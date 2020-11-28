@@ -24,6 +24,7 @@ def initialize():
     print("Welcome to Treasure Island.")
     print("Your mission is to find the treasure.") 
 
+## Treasure island function
 def treasureIsland():
     initialize()
     direction = input("left or right? ")
